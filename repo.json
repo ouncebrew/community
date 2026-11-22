@@ -10,10 +10,10 @@
             "details": "Pretty self-explanitory",
             "category": "fun",
             "url": "https://github.com/souldbminerr/bad-apple-switch",
+            "file": "bad-apple-switch.nro",
+            "direct_url": "https://github.com/souldbminerr/bad-apple-switch/releases/latest/download",
             "license": "GPLv2",
-            "changelog": "Ounce release.",
-            "filesize": 42800,
-            "extracted": 57900
+            "changelog": "Ounce release."
         }
     ]
 }
