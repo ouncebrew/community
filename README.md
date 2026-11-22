@@ -1,2 +1,2 @@
 # repo
-Ouncebrew repository for hpak
+Ouncebrew repository for hpak.
