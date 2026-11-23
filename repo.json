@@ -16,20 +16,6 @@
             "changelog": "1.0.5-Ounce release."
         },
         {
-            "name": "blacklist-tool",
-            "title": "blacklist-tool",
-            "author": "ave",
-            "version": "v1.1.0",
-            "description": "Manage Switch 2 blacklist/BCAT data.",
-            "details": "Manage the Switch 2 blacklist data. To remove blacklist/ultranag",
-            "category": "Tools",
-            "url": "https://github.com/s8n/blacklist-tool",
-            "file": "blacklist-tool-switch2.nro",
-            "direct_url": "https://github.com/s8n/blacklist-tool/releases/latest/download",
-            "license": "",
-            "changelog": "v1.1.0: split write payload option; added BCAT sync option."
-        },
-        {
             "name": "force-internal-speaker",
             "title": "Force Internal Speaker",
             "author": "Souldbminer, paulocode",
@@ -56,20 +42,6 @@
             "direct_url": "https://github.com/souldbminerr/bad-apple-switch/releases/latest/download",
             "license": "GPLv2",
             "changelog": "Ounce release."
-        },
-        {
-            "name": "donut",
-            "title": "Donut",
-            "author": "Rix565",
-            "version": "v1.0",
-            "description": "Spinning donut for Switch 2.",
-            "details": "Ounce donut demo/homebrew.",
-            "category": "Fun",
-            "url": "https://github.com/Rix565/ouncedonut",
-            "file": "Donut.nro",
-            "direct_url": "https://github.com/Rix565/ouncedonut/releases/latest/download",
-            "license": "",
-            "changelog": "v1.0 release."
         }
     ]
 }
