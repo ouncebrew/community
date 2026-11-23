@@ -1,10 +1,19 @@
-# repo
-Ouncebrew repository for hpak.
+# community
+## Piracy is not supported!!
+Ouncebrew community repository for hpak.
 
-This repository is primarily not open to contributions, and only contains select apps and packages. Thus, please do not PR without contacting a member of ouncebrew first.
+Unlike the regular ouncebrew repository, this repository is open for contributions!!
 
-Apps that *may* be accepted include:
-Libraries (Say SDL or Mesa)
-Basic utilities (File managers, save tools)
-Basic apps
-Some games/fun if deemed appropriate
+
+Please ensure that your contributions are not used to create or work with commercial game dumps for legal reasons.
+To submit an app onto this repository, you can simply create a pull request.
+
+
+To categorize your submissions, please use these category names verbatim:
+ - "Fun"
+ - "Tools"
+ - "Games"
+ - "Apps"
+ - "Customization"
+ - "Library"
+ - "Miscellaneous"

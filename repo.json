@@ -1,47 +1,19 @@
 {
-    "name": "Ouncebrew",
+    "name": "Ouncebrew Community",
     "packages": [
         {
-            "name": "90dns-tester",
-            "title": "90DNS Tester",
-            "author": "Nexrem and Souldbminer",
-            "version": "1.0.5-Ounce",
-            "description": "Test your 90DNS connection on Switch 2.",
-            "details": "Checks whether 90DNS/DNS blocking is working correctly.",
-            "category": "Tools",
-            "url": "https://github.com/souldbminerr/90DNS-Tester",
-            "file": "Switch_90DNS_tester.nro",
-            "direct_url": "https://github.com/souldbminerr/90DNS-Tester/releases/latest/download",
-            "license": "GPLv3",
-            "changelog": "1.0.5-Ounce release."
-        },
-        {
-            "name": "force-internal-speaker",
-            "title": "Force Internal Speaker",
-            "author": "Souldbminer, paulocode",
-            "version": "v1.0.0-ounce",
-            "description": "Force audio output through the Switch internal speakers.",
-            "details": "Switch 2 homebrew NRO to force internal speaker output.",
-            "category": "Tools",
-            "url": "https://github.com/souldbminerr/switch_internal_speakers_nro",
-            "file": "switch_internal_speakers_nro.nro",
-            "direct_url": "https://github.com/souldbminerr/switch_internal_speakers_nro/releases/latest/download",
-            "license": "",
-            "changelog": "v1.0.0-ounce release."
-        },
-        {
-            "name": "bad-apple-switch",
-            "title": "Bad Apple!! (Switch)",
-            "author": "souldbminerr",
-            "version": "bad_apple_ounce",
-            "description": "Bad Apple!! for Switch 2.",
-            "details": "Bad Apple!! demo for Switch 2.",
-            "category": "Fun",
-            "url": "https://github.com/souldbminerr/bad-apple-switch",
-            "file": "bad-apple-switch.nro",
-            "direct_url": "https://github.com/souldbminerr/bad-apple-switch/releases/latest/download",
-            "license": "GPLv2",
-            "changelog": "Ounce release."
+            "name": "ouncefin",
+            "title": "Ouncefin",
+            "author": "dragonflylee and Souldbminer",
+            "version": "1.0.0",
+            "description": "A Jellyfin client for Switch 2!",
+            "details": "Ouncefin is a free and open source Jellyfin client for the Nintendo Switch 2.\n\nIt supports various features, including downloads, hardware accellerated decoding, mouse mode and more!",
+            "category": "Apps",
+            "url": "https://github.com/souldbminerr/ouncefin",
+            "file": "ouncefin.nro",
+            "direct_url": "https://github.com/souldbminerr/ouncefin/releases/latest/download",
+            "license": "Apache-2.0",
+            "changelog": "1.0.0: Initial release"
         }
     ]
 }
