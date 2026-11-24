@@ -14,7 +14,10 @@
             "direct_url": "https://github.com/souldbminerr/ouncefin/releases/latest/download",
             "license": "Apache-2.0",
             "changelog": "1.0.0: Initial release",
-            "UpdateDateTime": "20/11/2026 00:09"
+            "UpdateDateTime": "20/11/2026 00:09",
+            "userDeletion": [
+                "sdmc:/switch/Switchfin/"
+            ]
         }
     ]
 }
