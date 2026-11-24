@@ -30,6 +30,7 @@
             "url": "https://github.com/souldbminerr/OpenRCT2-Switch",
             "file": "openrct2.nro",
             "direct_url": "https://github.com/souldbminerr/OpenRCT2-Switch/releases/latest/download",
+            "path": "sdmc:/switch/openrct2/",
             "license": "GPLv3",
             "changelog": "Initial release.",
             "UpdateDateTime": "11/11/2026 19:00",
