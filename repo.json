@@ -18,6 +18,24 @@
             "userDeletion": [
                 "sdmc:/switch/Switchfin/"
             ]
+        },
+        {
+            "name": "openrct2-switch",
+            "title": "OpenRCT2",
+            "author": "OpenRCT2",
+            "version": "1.0.0",
+            "description": "An open source theme-park management game.",
+            "details": "OpenRCT2 is a open source reimplementation of the RollerCoaster Tycoon series. \nIt requires your own game files placed in sdmc:/switch/openrct2/\nThis port supports various features including High-Res, Mouse mode, and more!.",
+            "category": "Games",
+            "url": "https://github.com/souldbminerr/OpenRCT2-Switch",
+            "file": "openrct2.nro",
+            "direct_url": "https://github.com/souldbminerr/OpenRCT2-Switch/releases/latest/download",
+            "license": "GPLv3",
+            "changelog": "Initial release.",
+            "UpdateDateTime": "11/11/2026 19:00",
+            "userDeletion": [
+                "sdmc:/switch/openrct2/"
+            ]
         }
     ]
 }
