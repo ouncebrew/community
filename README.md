@@ -15,6 +15,6 @@ To categorize your submissions, please use these category names verbatim:
  - "Games"
  - "Apps"
  - "Customization"
- - "Library"
+ - "Libraries"
  - "Miscellaneous"
  - "Emulation"
