@@ -17,3 +17,4 @@ To categorize your submissions, please use these category names verbatim:
  - "Customization"
  - "Library"
  - "Miscellaneous"
+ - "Emulation"
