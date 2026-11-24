@@ -35,7 +35,8 @@
             "UpdateDateTime": "11/11/2026 19:00",
             "userDeletion": [
                 "sdmc:/switch/openrct2/"
-            ]
+            ],
+            "requiredDeletion": []
         }
     ]
 }
